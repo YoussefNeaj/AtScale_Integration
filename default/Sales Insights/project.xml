@@ -3,10 +3,10 @@
   <annotations>
     <annotation name="complete-fix">true</annotation>
     <annotation name="migrationVersion">2022.4.1.5671</annotation>
-    <annotation name="version">61</annotation>
+    <annotation name="version">62</annotation>
     <annotation name="engineId">53d49296-e7d1-4a35-5f49-5621175219d9</annotation>
     <annotation name="versionTag"></annotation>
-    <annotation name="publishDate">Published on Apr 17, 2023 at 5:48pm (UTC)</annotation>
+    <annotation name="publishDate">Published on Apr 17, 2023 at 5:53pm (UTC)</annotation>
   </annotations>
   <properties>
     <caption>Sales Insights</caption>
