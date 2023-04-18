@@ -3,10 +3,10 @@
   <annotations>
     <annotation name="complete-fix">true</annotation>
     <annotation name="migrationVersion">2022.4.1.5671</annotation>
-    <annotation name="version">63</annotation>
+    <annotation name="version">66</annotation>
     <annotation name="engineId">53d49296-e7d1-4a35-5f49-5621175219d9</annotation>
     <annotation name="versionTag"></annotation>
-    <annotation name="publishDate">Published on Apr 17, 2023 at 6:27pm (UTC)</annotation>
+    <annotation name="publishDate">Published on Apr 18, 2023 at 6:35pm (UTC)</annotation>
   </annotations>
   <properties>
     <caption>Sales Insights</caption>
@@ -6436,7 +6436,7 @@
         <attribute id="6302e7a8-6773-40c5-6cdc-5baed1929809" name="customercountestimate1">
           <properties>
             <caption>Estimated Customer Count</caption>
-            <visible>false</visible>
+            <visible>true</visible>
             <folder>Customer Metrics</folder>
             <formatting>
               <named-format>General Number</named-format>
